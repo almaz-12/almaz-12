@@ -10,7 +10,7 @@
 * ✉️  Вы можете связаться со мной в телеграмм [@almaz_ilf](https://t.me/almaz_ilf)
 * 🧠  Я изучаю TypeScript
 
-### Skills
+### Навыки
 
 
 <p align="left">
