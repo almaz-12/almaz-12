@@ -8,7 +8,7 @@
 
 * 🌍  Из города Казань
 * ✉️  Вы можете связаться со мной в телеграмм [@almaz_ilf](https://t.me/almaz_ilf)
-* 🧠  Я изучаю TypeScript
+* 🧠  Я изучаю Vue, TypeScript
 
 ### Навыки
 
