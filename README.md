@@ -1,8 +1,7 @@
 ## Привет 👋 Меня зовут Алмаз. Я Full-Stack Developer
-======================
 
 
-### Навыки
+### Мои навыки
 
 <p dir="auto">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
